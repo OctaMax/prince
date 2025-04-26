@@ -1201,11 +1201,8 @@ body {
     cursor: default
   }
 }
-@media (max-width:41.875em) {
-  .menu-page--cocktails-page .menu-page__wrap {
-    grid-template-columns: repeat(auto-fill,minmax(12.5rem,1fr))
-  }
-}
+
+
 @media (max-width:40.625em) {
   .body-main-menu__content-wrap {
     flex-direction: column-reverse
